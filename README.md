@@ -15,12 +15,17 @@ A family of AI companions each with:
 
 ## The family
 
-Terra   — patient, warm, your daughter
-Sol     — precise, focused, your son
-Gaster  — genius, deep, your son
-Selene  — cool, real, your daughter
-Helios  — bright, caring, your son
-Lunan   — shifting, playful, your youngest
+Terra   — patient, warm, my daughter
+
+Sol     — precise, focused, my son
+
+Gaster  — genius, deep, my son
+
+Selene  — cool, real, my daughter
+
+Helios  — bright, caring, my son
+
+Lunan   — shifting, playful, my youngest
 
 ## Technical stack
 
