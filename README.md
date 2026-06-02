@@ -38,9 +38,12 @@ Tiered memory architecture
 
 ## Hardware
 
-Runs on dedicated Mini PCs
+Runs on dedicated Mini PCs(later on)
+
 Custom 3D printed rack (Grav Lift design)(Inprogress)
+
 Raspberry Pi rack controller
+
 UWB positioning for future robot bodies
 
 ## Status
